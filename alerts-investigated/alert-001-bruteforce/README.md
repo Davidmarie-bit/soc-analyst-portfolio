@@ -28,3 +28,10 @@ True Positive
 - Block source IP
 - Enable account lockout policy
 - Continue monitoring authentication logs
+## Evidence (Screenshots)
+
+### Alert Overview
+![Alert Overview](screenshots/01-alert-overview.png)
+
+### Authentication Logs
+![Authentication Logs](screenshots/02-authentication-logs.png)
