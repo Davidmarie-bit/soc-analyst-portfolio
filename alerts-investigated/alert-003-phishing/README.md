@@ -10,6 +10,14 @@ LetsDefend SIEM
 - Date/Time: May 13, 2024 – 09:22 AM
 - Alert Type: Phishing
 
+## Screenshots
+
+### Alert Overview
+![Alert Overview](screenshots/01-alert-overview.png)
+
+### Phishing Email Details
+![Phishing Email Details](screenshots/02-phishing-email-details.png)
+
 ## Email Details
 - Sender Email: free@coffeeshooop.com
 - Recipient Email: Felix@letsdefend.io
