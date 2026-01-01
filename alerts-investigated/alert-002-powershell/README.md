@@ -50,3 +50,17 @@ True Positive – Contained
 
 ### PowerShell Execution
 ![PowerShell Execution](screenshots/01-powershell-execution.png)
+
+## Investigation Summary
+
+- A PowerShell script (`payload_1.ps1`) was executed from the Downloads directory.
+- The activity was detected by Endpoint Security (EDR).
+- No additional malicious processes or lateral movement were observed.
+- The event appears isolated to a single endpoint.
+
+## Analyst Conclusion
+
+This alert represents a **suspicious PowerShell execution** that was **successfully detected** by security controls.
+
+No evidence of persistence, privilege escalation, or follow-on malicious activity was identified.  
+The incident was contained and required no further remediation.
