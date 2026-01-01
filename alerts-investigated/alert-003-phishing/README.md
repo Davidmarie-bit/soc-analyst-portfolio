@@ -13,10 +13,10 @@ LetsDefend SIEM
 ## Screenshots
 
 ### Alert Overview
-![Alert Overview](screenshots/01-alert-overview.png)
+![Alert Overview](./screenshots/01-alert-overview.png)
 
 ### Phishing Email Details
-![Phishing Email Details](screenshots/02-phishing-email-details.png)
+![Phishing Email Details](./screenshots/02-phishing-email-details.png)
 
 ## Email Details
 - Sender Email: free@coffeeshooop.com
